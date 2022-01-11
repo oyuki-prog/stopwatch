@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#time {
+    font-size: 32px;
+}
